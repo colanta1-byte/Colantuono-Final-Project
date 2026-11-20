@@ -1,0 +1,66 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+Height in Inches,89.03,82.29,72.6,787,The players height in inches during the 2025-2026 season
+Age in Years,27.04,4.6,19,41,The players age during the 2025-2026 season
+Years in NBA,6.91,4.31,1,23,The number of years the player has played in the NBA
+Assists Per Game,3.75,2.04,0,10,Average number of assists per game
+Points Per Game,16.91,6.28,0,28.7,Average number of points per game
+Minutes Per Game,28.99,6.33,0,37,Average minutes played per game
+Weight in Pounds,220.14,23.7,164,280,Weight in pounds of player in pounds
+NBA Seasons,6.91,4.31,1,23,Number of seasons the player has played in the NBA
+Games Played,60.79,14.14,0,82,Number of games the player has played
+Turnovers Per Game,2.1,0.83,0,4.5,Average number of turnovers per game
+Personal Fouls Per Game,2.4,1.26,0,11.6,Average number of personal fouls per game
+Field-Goal Attempted,12.73,4.6,0,22.4,Average number of field-goals attemoted by player per game
+Three-Point Made,1.68,0.99,0,3.5,Average number of three-pointers made by player per game
+Steals Per Game,1.03,0.38,0,2,Average number a player steals per game
+Blocks Per Game,0.69,0.51,0,2,Average number of blocks a player has per game
+Offensive Rebounds,1.28,0.89,0,3.5,Average number of offensive rebounds made by player per game
+Career Playoff Appearences,4.25,3.07,0,16,Number of career playoff appearences of player
+Jersey Number,15.37,16.4,0,88,The number of the jersey the player wears
+Rebounds Per Game,5.54,2.5,0,11,Average number of rebounds per game
+Position of Players,,,,,The primary position of the players
+    Center,0.18,,,,    The player plays center
+    Power Forward,0.17,,,,    The player plays power forward
+    Point Guard,0.2,,,,    The player plays point guard
+    Small Forward,0.22,,,,    The player plays small forward
+    Shooting Guard,0.2,,,,    The player plays shooting guard
+Team of Players,,,,,The team that the player is apart of
+    Boston Celtics,0.02,,,,    The player plays for the Boston Celtics
+    Brooklyn Nets,0.04,,,,    The player plays for the Brooklyn Nets
+    New York Knicks,0.02,,,,    The player plays for the New York Knicks
+    Philadelphia 76ers,,,,,    The player plays for the Philadelphia 76ers
+    Toronto Raptors,0.08,,,,    The player plays for the Toronto Raptors
+    Chicago Bulls,0.06,,,,    The player plays for the Chicago Bulls
+    Cleveland Cavaliers,0.09,,,,    The player plays for the Cleveland Cavaliers
+    Detroit Pistons,0.08,,,,    The player plays for the Detroit Pistons
+    Indiana Pacers,0.08,,,,    The player plays for the Indiana Pacers
+    Milwaukee Bucks,0.09,,,,    The player plays for the Milwaukee Bucks
+    Atlanta Hawks,0.02,,,,    The player plays for the Atlanta Hawks
+    Charlotte Hornets,0.05,,,,    The player plays for the Charlotte Hornets
+    Miami Heat,0.13,,,,    The player plays for the Miami Heat
+    Orlando Magic,0.09,,,,    The player plays for Orlando Magic
+    Washington Wizards,0.06,,,,    The player plays for the Washington Wizards
+Contract Type,,,,,The type of contract the player signed
+    Rookie,0.4,,,,    The player signed a rookie contract
+    2-Way,0.59,,,,    The player signed a 2-way contract
+Conference,,,,,The conference the player plays for
+    Eastern,1,,,,    The player plays for the eastern conference
+    Other,0,,,,    The player plays for anything other than eastern conference
+Draft Round,,,,,The round that the player was drafted in
+    First Round,0.87,,,,    The player was drafted in the first round
+    Second Round,0.1,,,,    The player was drafted in the second round
+    Undrafted,0.01,,,,    The player was not drafted
+Defensive Position,,,,,The defensive position that the player plays
+    Point of attack,0.29,,,,    The player plays defensive attack
+    Chaser,0.32,,,,    The player plays chaser
+    Helper,0.12,,,,    The player plays helper
+    Wing Stopper,0.13,,,,    The player plays wing stopper
+    Anchor Big,0.12,,,,    The player plays anchor big
+All NBA,,,,,The player played in the All star NBA game
+    Yes,0.67,,,,   The player did play
+    No,0.32,,,,    The player did not play
+Olympic Participation,,,,,Whether or not the play played in the olympics
+Yes,0.79,,,,The player did play
+No,0.2,,,,The player did not play
+n = 74,,,,,
